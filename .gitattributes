@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+zip_industry_detail.txt filter=lfs diff=lfs merge=lfs -text
